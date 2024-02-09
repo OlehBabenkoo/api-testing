@@ -8,5 +8,5 @@ test('Get info about film from API SWAPI', async () => {
   expect(response.data).toHaveProperty('title', 'A New Hope');
   expect(response.data).toHaveProperty('director', 'George Lucas');
   expect(response.data).toHaveProperty('director', 'George Lucas');
-  expect(response.data).toHaveProperty('release_date', '1977-05-2');
+  expect(response.data).toHaveProperty('release_date', '1977-05-25');
 });
