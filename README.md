@@ -23,3 +23,11 @@ Running tests:
 ```sh
 npm test
 ```
+
+## Tests Report
+
+Configure the report:
+
+```sh
+npx allure serve allure-results
+```
