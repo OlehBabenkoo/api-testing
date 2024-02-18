@@ -16,6 +16,8 @@
     "@types/node": "^20.11.17",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
+    "allure-commandline": "^2.27.0",
+    "allure-jest": "^2.12.2",
     "axios": "^1.6.7",
     "axios-mock-adapter": "^1.22.0",
     "eslint": "^8.56.0",
