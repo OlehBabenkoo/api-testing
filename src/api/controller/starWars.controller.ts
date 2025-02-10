@@ -8,7 +8,7 @@ export default class StarWarsApi {
   private apiUrl: string;
 
   constructor(apiUrl: string) {
-    this.apiUrl = apiUrl;
+    this.apiUrl = apiUrl
   }
 
   public async getFilmInfo(): Promise<Movie> {
